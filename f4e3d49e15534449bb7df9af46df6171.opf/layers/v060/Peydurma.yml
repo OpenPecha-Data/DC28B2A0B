@@ -6,10 +6,12 @@ annotations:
     span:
       start: 736347
       end: 736347
+      fail_update: both
   a0e68f722126428d976f6fbca46420a2:
     span:
       start: 759908
       end: 759908
+      fail_update: both
 local_ids:
   edfad4c2520e479997425034a2bc74e6: 200000
   a0e68f722126428d976f6fbca46420a2: 200001
