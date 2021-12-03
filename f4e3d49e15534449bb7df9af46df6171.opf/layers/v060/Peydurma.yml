@@ -4,13 +4,13 @@ revision: '00001'
 annotations:
   edfad4c2520e479997425034a2bc74e6:
     span:
-      start: 736268
-      end: 736268
+      start: 736258
+      end: 736258
       fail_update: both
   a0e68f722126428d976f6fbca46420a2:
     span:
-      start: 759649
-      end: 759649
+      start: 759639
+      end: 759639
       fail_update: both
 local_ids:
   edfad4c2520e479997425034a2bc74e6: 200000
