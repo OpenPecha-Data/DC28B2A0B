@@ -3691,13 +3691,6 @@ annotations:
       start: 760805
       end: 760838
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
-  2dc3301328c2485588ace02985cb6d17:
-    imgnum: 1560
-    reference: ''
-    span:
-      start: 764751
-      end: 764751
-    note_ref: ''
 local_ids:
   432b9dd6d83b4315aa088971b43d375b: 200000
   d344b86152ca45998d817590086af9fb: 200001
