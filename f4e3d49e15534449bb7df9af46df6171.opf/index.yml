@@ -7,9 +7,5 @@ annotations:
     span:
     - vol: 60
       start: 0
-<<<<<<< HEAD
-      end: 1888551
-=======
       end: 760838
->>>>>>> b4d386dcc47e832784930a4c0a4d157fbf575a58
     work_id: D3865
