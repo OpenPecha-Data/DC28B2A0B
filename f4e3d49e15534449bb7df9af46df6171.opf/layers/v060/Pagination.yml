@@ -3626,70 +3626,70 @@ annotations:
     reference: ''
     span:
       start: 740559
-      end: 742763
+      end: 742766
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   0930a40365fa4c1e889941665fd3d1e7:
     imgnum: 1551
     reference: ''
     span:
-      start: 742765
-      end: 745243
+      start: 742768
+      end: 745246
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   80d740ab98644512aeec72f52a53356c:
     imgnum: 1552
     reference: ''
     span:
-      start: 745245
-      end: 747719
+      start: 745248
+      end: 747722
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   5a2d3626377d44829d6123c5d21db9ff:
     imgnum: 1553
     reference: ''
     span:
-      start: 747721
-      end: 749811
+      start: 747724
+      end: 749814
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   b2d844a037d24f8aba1693a2151cc079:
     imgnum: 1554
     reference: ''
     span:
-      start: 749813
-      end: 752125
+      start: 749816
+      end: 752128
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   6db01cc6873d45b3a1d910726ae45750:
     imgnum: 1555
     reference: ''
     span:
-      start: 752127
-      end: 754452
+      start: 752130
+      end: 754455
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   28fa3ed8bb134af89de1398dee8bc173:
     imgnum: 1556
     reference: ''
     span:
-      start: 754454
-      end: 756952
+      start: 754457
+      end: 756955
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   da8b4dba17c5473aa3fd032253382cf2:
     imgnum: 1557
     reference: ''
     span:
-      start: 756954
-      end: 759265
+      start: 756957
+      end: 759268
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   38c73a78acd844d6aeca0bf4b248e6c6:
     imgnum: 1558
     reference: ''
     span:
-      start: 759267
-      end: 760636
+      start: 759270
+      end: 760639
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
   e8856515dee74436aa7fba9413e6b455:
     imgnum: 1559
     reference: ''
     span:
-      start: 760638
-      end: 760671
+      start: 760641
+      end: 760674
     note_ref: 7aade79945be41eab1aaa741aaad2f6c
 local_ids:
   432b9dd6d83b4315aa088971b43d375b: 200000
